@@ -1,0 +1,4 @@
+#!/bin/sh
+pcmanfm --desktop-off && pcmanfm --desktop --profile lubuntu
+
+chmod +x /
